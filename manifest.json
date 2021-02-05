@@ -1,0 +1,10 @@
+{
+  "id": "{ID}",
+  "name": "{NAME}",
+  "description": "{DESCRIPTION}",
+  "version": "0.0.0",
+  "minAppVersion": "0.10.11",
+  "author": "death_au",
+  "authorUrl": "https://github.com/deathau",
+  "isDesktopOnly": false
+}
